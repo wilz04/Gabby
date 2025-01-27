@@ -1,0 +1,81 @@
+body {
+	background-color: #DFE3E9;
+	background-attachment: fixed;
+	background-image: url(../images/logoGM.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+	scrollBar-face-color: #BFC7D2;
+	scrollBar-highLight-color: #BFC7D2;
+	scrollBar-shadow-color: #BFC7D2;
+	scrollBar-3dLight-color: #000000;
+	scrollBar-arrow-color: #BFC7D2;
+	scrollBar-track-color: #DFE3E9;
+	scrollBar-darkShadow-color: #000000;
+}
+
+a:link {
+	text-decoration: none;
+	color: #000000;
+}
+
+a:visited {
+	text-decoration: none;
+	color: 000000;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #A3B8CC;
+}
+
+a:active {
+	text-decoration: none;
+	color: #7F8EA5;
+}
+
+th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #BFC7D2;
+	border: 1px solid #000000;
+}
+
+td {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	background-color: #EFF1F4;
+	border: 1px solid #7F8EA5;
+}
+
+input, .input, textArea, select, hr {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	background-color: #BFC7D2;
+	border: 1px solid #000000;
+}
+
+fieldSet {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	width: 400px;
+	border: 1px solid #7F8EA5;
+}
+
+.title {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+label, .text {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+.comment {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 6px;
+}
